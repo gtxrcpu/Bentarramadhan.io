@@ -1,0 +1,9 @@
+body {
+  background-color: #34ebeb;
+}
+
+/* Gaya Tombol Berwarna */
+.button-colored {
+    background-color: #3498db; /* Warna Biru */
+    color: white;
+  }
